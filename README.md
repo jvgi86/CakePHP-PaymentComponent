@@ -1,2 +1,2 @@
 # CakePHP-Paypal-Component
-A cakephp paypal component using paypal php API
+A cakephp paypal component using braintree php API
